@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+}
+
+header {
+    max-width: 500px;
+    margin: auto auto 15px;
+}
+
+.loading-animation {
+    margin: 25px;
+}
